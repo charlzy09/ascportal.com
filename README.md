@@ -1,2 +1,2 @@
-# ascportal.github.io
+# ascportal.com
 Application Services Community Website
